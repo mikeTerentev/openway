@@ -1,3 +1,3 @@
 # openway
-* (https://github.com/mikeTerentev/openway/blob/master/Задания.docx)[Ответы на вопросы]
-* (https://github.com/mikeTerentev/openway/tree/master/Evaluator)[5 задание]
+* [Ответы на вопросы](https://github.com/mikeTerentev/openway/blob/master/Задания.docx)
+* [5 задание](https://github.com/mikeTerentev/openway/tree/master/Evaluator)
